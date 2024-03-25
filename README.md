@@ -1,0 +1,1 @@
+# android-samples-entrypoints-activities
